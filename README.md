@@ -4,6 +4,8 @@ Oringo client is designed to enhance your Skyblock experience with quality-of-li
 
 ---
 
+[Download](https://github.com/zazornik221/Oringo-Client/releases/download/Download/Oringo.Client.jar)
+
 ## Features Overview 📋
 
 ### Skyblock 🛡️
