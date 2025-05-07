@@ -1,0 +1,26 @@
+{
+  "package": "com.jelly.mightyminerv2.mixin",
+  "refmap": "mixins.mightyminerv2.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "client.MixinBlockStainedGlassPane",
+    "client.MixinChunk",
+    "client.MixinEntityLivingBase",
+    "client.MixinMinecraft",
+    "client.MixinScoreboard",
+    "client.MixinSoundManager",
+    "fml.MixinFMLHandshakeMessage",
+    "gui.MixinGuiContainer",
+    "gui.MixinInventoryPlayer",
+    "network.MixinNetworkManager"
+  ],
+  "client": [
+    "client.EntityPlayerSPAccessor",
+    "client.MinecraftAccessor",
+    "client.MixinChunkProviderClient",
+    "client.MixinEntityPlayerSP",
+    "network.MixinNetHandlerPlayClient",
+    "render.MixinModelBiped"
+  ]
+}
