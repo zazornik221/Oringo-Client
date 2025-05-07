@@ -15,7 +15,7 @@ Enhance your Skyblock experience with automation tools, skill aids, and helpers.
   - Mithril Macro
   - Auto Fish 🎣
   - Auto Enchanting ✨
-  - Garden Helper 🌿
+  - Garden Helper 🌿  
   - Kundra Helper 🌌
   - AOTV Return ↩️
   - Rod Stacker 🎣
